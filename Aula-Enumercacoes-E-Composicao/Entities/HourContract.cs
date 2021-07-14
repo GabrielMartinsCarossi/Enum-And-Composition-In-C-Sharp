@@ -23,7 +23,7 @@ namespace Aula_Enumercacoes_E_Composicao.Entities
 
         public double TotalValue()
         {
-            return Hours * ValuePerHour;
+            return Hours * ValuePerHour; 
         }
     }
 }
